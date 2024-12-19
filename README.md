@@ -11,7 +11,7 @@ Link to project: [https://replit.com/@md-4516/Genshin-ML](https://replit.com/@md
 How It's Made:
 Tech used: Python, SciPy and Scikit-learn
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write something. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+I wanted to use the Genshin Impact characters as the data to build a hierarchical clustering because I had been playing the game for years and noticed an issue with data consolidation. Character data and team classification data are on two separate wiki pages, which makes finding the best characters to make the best overall team a difficult task. I wanted to practice classification and hierarchical clustering while solving a data problem pertinent to myself.
 
 Lessons Learned:
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those whoa this is awesome or wow I actually did it! moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+I learned how to print random arrays, classify large datasets, and generate and interpret a dendrogram.
