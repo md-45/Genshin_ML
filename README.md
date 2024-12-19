@@ -1,7 +1,10 @@
 # Genshin Machine Learning Model
 
 This is a machine learning classifier that takes character data from the 2020 video game, Genshin Impact and classifies characters as a DPS, sub DPS, or support. Then by using the classified characters, the model randomly generates a team and classifies how quality the team is. 
-[Insert screenshot]
+
+![Classified]("C:\Users\merin\Downloads\G_ML_classified.png")
+
+![Hierarchical Clustering]("C:\Users\merin\Downloads\G_ML_hierarch.png")
 
 Link to project: [http://recruiters-love-seeing-live-demos.com/
 ](https://replit.com/@md-4516/Genshin-ML)
