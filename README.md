@@ -2,9 +2,9 @@
 
 This is a machine learning classifier that takes character data from the 2020 video game, Genshin Impact and classifies characters as a DPS, sub DPS, or support. Then by using the classified characters, the model randomly generates a team and classifies how quality the team is. 
 
-![Classified]("C:\Users\merin\Downloads\G_ML_classified.png")
+![G_ML_classified](https://github.com/user-attachments/assets/21881b31-bbe3-4342-8703-b22ea2feeac7)
 
-![Hierarchical Clustering]("C:\Users\merin\Downloads\G_ML_hierarch.png")
+![G_ML_hierarch](https://github.com/user-attachments/assets/7213ded0-bc5e-41a3-98f7-3c740421532d)
 
 Link to project: [https://replit.com/@md-4516/Genshin-ML](https://replit.com/@md-4516/Genshin-ML)
 
